@@ -1,2 +1,2 @@
 Gamzeescript
-![Header](https://raw.githubusercontent.com/MartinHe/Gamzeescript/Gamzeescript/master/src/bannersynth.jpg "Header")](https://some-url.dev/)
+![Header](https://https://github.com/Gamzeescript/Gamzeescript/blob/master/src/bannef.png "Header")](https://some-url.dev/)
