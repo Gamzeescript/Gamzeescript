@@ -19,7 +19,6 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
 
-1234| Cabecera 1 | Cabecera 2 | Cabecera 3 | --------- | --------------------------- |
 
 JAVA
 PHP 
