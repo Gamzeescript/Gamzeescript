@@ -83,14 +83,15 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Framework-Material_Design-informational?style=flat&logo=material-design&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
-</td></tr></table>
-
-
+</td></tr>
+<tr><td valign="top" width="50%" colspan="2">
 
 ## Python
 | Tecnologia | Progreso |
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+
+</td></tr></table>
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
