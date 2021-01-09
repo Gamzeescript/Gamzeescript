@@ -12,7 +12,7 @@ Mihaeru aqui, mejor conocida como Gamzeescript, desarrollo desde los 16 años si
 A continuación un poco de mi Stack Actual y del cual estoy programando y estoy aprendiendo
 </br></br>
 
-<table><tr><td valign="top" width="34%">
+<table><tr><td valign="top" width="34%" rowspan="2">
 
 ## Java
 | Tecnologia | Progreso |
