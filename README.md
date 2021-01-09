@@ -43,7 +43,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue-dot-js&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue-js&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angularjs&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
 
