@@ -40,19 +40,8 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-Vue-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAA/FBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////yKwRjAAAAU3RSTlMAAQIDBAUGCAoLDA4QEhUXGR0gISQnMDM2Oz9FSVRVW1xlZmdwcXV4eXx/goOEjpWXmJ2foKmqq7S1wMPHzM/U19rd3+Hi5Ofq7e/y9ff4+vz9/ppjGqAAAADuSURBVHjadMgDggMBEAXRWtu2bdv2Jn3/u6Riv2Rm6jd1zS3mLLRC60J+zbER2hwbG5tfhdV5YzO0QduTn8c24Li/79BP64OHl3aYDa0BQ3sHw37WQzPo0vjqN3Z2fPV/OS9Bo//mkdHZ6evI8T9q6MBOjhsaSzj2kXo+HNcNqOHK/OwlZyU0h+ZDy+Q13zlfO6D92bhvoWAqtAXboWlKXHj4GRz49nNOqeFfT6dnvv5GKLMbObuU63rzqPduKiylBpFQwogXJluQuB0zZoxJBgElpLDFpVlwsCnWSBb08RXCHv062jjSBScnAxEAAAlWOBZbk1C6AAAAAElFTkSuQmCC&style=flat&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angularjs&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
-</td><td valign="top" width="33%">
-
-## Python
-| Tecnologia | Progreso |
-| ------- | :-------: |
-| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-
 </td></tr>
-<tr><td valign="top" width="34%">
-
-
-
-</td><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 ## Preprocesadores
 | Tecnologia | Progreso |
@@ -84,7 +73,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
-</td><td valign="top" width="33%">
+</td></tr></table>
 
 ## CSS
 | Tecnologia | Progreso |
@@ -93,7 +82,10 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Framework-Material_Design-informational?style=flat&logo=material-design&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
-</td></tr></table>
+## Python
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
