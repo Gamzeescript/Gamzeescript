@@ -15,18 +15,25 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 ## Java
 | Tecnologia | Progreso |
 | ------- | :-------: |
+| ![](https://img.shields.io/badge/Java-Vainilla-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Java-JSF-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Java-PrimeFaces-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Java-RESTFULL-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Java-Spring_Security-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Java-Spring_Cloud-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Spring-Spring_Security-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Spring-Spring_Cloud-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
-JAVA
-PHP 
+
+## PHP
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/PHP-Vainilla-informational?style=flat&logo=php&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+ 
 Python
 Javascript
 CSS
