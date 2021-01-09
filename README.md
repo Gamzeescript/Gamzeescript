@@ -12,8 +12,8 @@ Mihaeru aqui, mejor conocida como Gamzeescript, desarrollo desde los 16 años si
 A continuación un poco de mi Stack Actual y del cual estoy programando y estoy aprendiendo
 </br></br>
 
+
 | Primer encabezado |
-| ------------- | ------------- |
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
