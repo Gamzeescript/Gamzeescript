@@ -12,6 +12,7 @@ Mihaeru aqui, mejor conocida como Gamzeescript, desarrollo desde los 16 años si
 A continuación un poco de mi Stack Actual y del cual estoy programando y estoy aprendiendo
 </br></br>
 
+<table><tr><td valign="top" width="34%">
 ## Java
 | Tecnologia | Progreso |
 | ------- | :-------: |
@@ -27,6 +28,9 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Spring-Spring_Cloud-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+<td valign="top" width="33%"></td>
+<td valign="top" width="33%"></td>
+<tr></table>
 
 ## PHP
 | Tecnologia | Progreso |
