@@ -15,46 +15,46 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 ## Java
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Java-Vainilla-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Java-JSF-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Java-PrimeFaces-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Java-RESTFULL-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Spring-Spring_Security-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Spring-Spring_Cloud-informational?style=flat&logo=spring&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Java-Vainilla-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-JSF-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-PrimeFaces-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-RESTFULL-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Spring-Spring_Security-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Spring-Spring_Cloud-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
 ## PHP
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/PHP-Vainilla-informational?style=flat&logo=php&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/PHP-Vainilla-informational?style=flat&logo=php&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
  
 ## Python
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
 ## Javascript
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
 ## CSS
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/CSS-Vainilla-informational?style=flat&logo=css3&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Material_Design-informational?style=flat&logo=material-design&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/CSS-Vainilla-informational?style=flat&logo=css3&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Material_Design-informational?style=flat&logo=material-design&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
 ## Preprocesadores
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Preprocesador-SASS-informational?style=flat&logo=sass&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Preprocesador-LESS-informational?style=flat&logo=less&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Preprocesador-SASS-informational?style=flat&logo=sass&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Preprocesador-LESS-informational?style=flat&logo=less&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
 Angular JS
 React JS
