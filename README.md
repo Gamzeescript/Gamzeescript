@@ -98,7 +98,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/stat.gif" width="30px">
 
 <a href="https://github.com/Gamzeescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamzeescript&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=135c8d&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamzeescript&theme=synthwave&hide=html/>
 </a>
 <a href="https://github.com/Gamzeescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gamzeescript&theme=synthwave&show_icons=true" alt="Pedrux's GitHub Stats" />
