@@ -15,7 +15,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 ## Java
 | Tecnologia | Progreso |
 | ------------- | ------------- |
-| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) `Dominado`  |
+| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | Contenido de la celda  | Contenido de la celda  |
 
 
