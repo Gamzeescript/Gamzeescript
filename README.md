@@ -13,8 +13,28 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 </br></br>
 
 <table><tr><td valign="top" width="34%">
+### Recent releases
+<!-- recent_releases starts -->
+[datasette-css-properties 0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - 2021-01-07
+
+[datasette-export-notebook 0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/0.1) - 2021-01-06
+
+[sqlite-utils 3.2](https://github.com/simonw/sqlite-utils/releases/tag/3.2) - 2021-01-03
+
+[datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
+
+[dogsheep-beta 0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - 2020-12-19
+
+[github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
+
+[datasette-publish-fly 1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - 2020-12-12
+
+[datasette-auth-passwords 0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - 2020-12-11
+<!-- recent_releases ends -->
 <td valign="top" width="33%"></td>
+<h2>PHP</h2>
 <td valign="top" width="33%"></td>
+<h2>PHP</h2>
 <tr></table>
 
 ## Java
