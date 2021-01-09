@@ -42,6 +42,10 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | Tecnologia | Progreso |
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue-dot-js&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angularjs&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+
 
 ## CSS
 | Tecnologia | Progreso |
@@ -55,12 +59,6 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Preprocesador-SASS-informational?style=flat&logo=sass&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Preprocesador-LESS-informational?style=flat&logo=less&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
-
-Angular JS
-React JS
-Vue Js
-
-
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
