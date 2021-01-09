@@ -74,7 +74,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
 </td></tr>
-tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 ## CSS
 | Tecnologia | Progreso |
