@@ -67,9 +67,12 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Gestor-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Gestor-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Gestor-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Gestor-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Gestor-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Gestor-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Lenguaje-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Lenguaje-Transact_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Lenguaje-PL/SQL-informational?style=flat&logo=oracle&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
