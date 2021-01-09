@@ -58,7 +58,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | Tecnologia | Progreso |
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Preprocesador-SASS-informational?style=flat&logo=sass&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Preprocesador-LESS-informational?style=flat&logo=less&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Preprocesador-LESS-informational?style=flat?logo=data:https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/less-logo.png;base64&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
