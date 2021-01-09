@@ -101,7 +101,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamzeescript&theme=synthwave&hide=html&hide_border=true" />
 </a>
 <a href="https://github.com/Gamzeescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gamzeescript&theme=synthwave&show_icons=true" alt="Pedrux's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gamzeescript&theme=synthwave&show_icons=true&hide_border=true" alt="Gamzeescript's GitHub Stats" />
 </a>
 
 # ¿Té? <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
