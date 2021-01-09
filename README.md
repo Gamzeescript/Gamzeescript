@@ -34,8 +34,16 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
  
-Python
-Javascript
+## Python
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+
+## Javascript
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+
 CSS
 Angular JS
 React JS
