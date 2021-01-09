@@ -12,7 +12,23 @@ Mihaeru aqui, mejor conocida como Gamzeescript, desarrollo desde los 16 años si
 A continuación un poco de mi Stack Actual y del cual estoy programando y estoy aprendiendo
 </br></br>
 
-<table><tr><td valign="top" width="34%" rowspan="2">
+<table><tr><td valign="top" width="33%">
+
+## PHP
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/PHP-Vainilla-informational?style=flat&logo=php&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+</td><td valign="top" width="33%">
+
+## Python
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+
+</td></tr>
+<tr><td valign="top" width="34%" rowspan="2">
 
 ## Java
 | Tecnologia | Progreso |
