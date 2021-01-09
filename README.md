@@ -12,10 +12,10 @@ Mihaeru aqui, mejor conocida como Gamzeescript, desarrollo desde los 16 años si
 A continuación un poco de mi Stack Actual y del cual estoy programando y estoy aprendiendo
 </br></br>
 
-# Java
+## Java
 | Tecnologia | Progreso |
 | ------------- | ------------- |
-| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=negro&color=135c8d)  | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`  |
+| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=negro&color=FF94D3)  | ![#f03c15](https://placehold.it/15/#48A868/000000?text=+) `Dominado`  |
 | Contenido de la celda  | Contenido de la celda  |
 
 
