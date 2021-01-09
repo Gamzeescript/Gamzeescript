@@ -13,29 +13,54 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 </br></br>
 
 <table><tr><td valign="top" width="34%">
-### Recent releases
-<!-- recent_releases starts -->
-[datasette-css-properties 0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - 2021-01-07
 
-[datasette-export-notebook 0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/0.1) - 2021-01-06
+## Java
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Java-Vainilla-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-JSP-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-JSF-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-PrimeFaces-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-RESTFULL-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-JPA-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Java-Hibernate-informational?style=flat&logo=java&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Spring-Spring_Security-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Spring-Spring_Cloud-informational?style=flat&logo=spring&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
-[sqlite-utils 3.2](https://github.com/simonw/sqlite-utils/releases/tag/3.2) - 2021-01-03
+</td><td valign="top" width="33%">
 
-[datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
+### On my blog
+<!-- blog starts -->
+[APIs from CSS without JavaScript: the datasette-css-properties plugin](http://simonwillison.net/2021/Jan/7/css-apis-no-javascript/) - 2021-01-07
 
-[dogsheep-beta 0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - 2020-12-19
+[Weeknotes: A flurry of not-quite-finished features](http://simonwillison.net/2021/Jan/3/weeknotes/) - 2021-01-03
 
-[github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
+[Weeknotes: Datasette internals](http://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/) - 2020-12-27
 
-[datasette-publish-fly 1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - 2020-12-12
+[Building a search engine for datasette.io](http://simonwillison.net/2020/Dec/19/dogsheep-beta/) - 2020-12-19
 
-[datasette-auth-passwords 0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - 2020-12-11
-<!-- recent_releases ends -->
-<td valign="top" width="33%"></td>
-<h2>PHP</h2>
-<td valign="top" width="33%"></td>
-<h2>PHP</h2>
-<tr></table>
+[Build v.s. buy: how billing models affect your internal culture](http://simonwillison.net/2020/Dec/13/build-vs-buy/) - 2020-12-13
+<!-- blog ends -->
+More on [simonwillison.net](https://simonwillison.net/)
+</td><td valign="top" width="33%">
+
+### TIL
+<!-- tils starts -->
+[Packaging a Python app as a standalone binary with PyInstaller](https://til.simonwillison.net/python/packaging-pyinstaller) - 2021-01-04
+
+[Using Prettier to check JavaScript code style in GitHub Actions](https://til.simonwillison.net/github-actions/prettier-github-actions) - 2020-12-31
+
+[Using Jest without a package.json](https://til.simonwillison.net/javascript/jest-without-package-json) - 2020-12-30
+
+[Relinquishing control in Python asyncio](https://til.simonwillison.net/python/yielding-in-asyncio) - 2020-12-29
+
+[Replicating SQLite with rqlite](https://til.simonwillison.net/sqlite/replicating-rqlite) - 2020-12-28
+<!-- tils ends -->
+More on [til.simonwillison.net](https://til.simonwillison.net/)
+</td></tr></table>
 
 ## Java
 | Tecnologia | Progreso |
