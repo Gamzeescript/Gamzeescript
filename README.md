@@ -14,6 +14,7 @@ Mihaeru aqui, mejor conocida como Gamzeescript, desarrollo desde los 16 años si
 
 # ¿Té? <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 A continuación un poco de mi Stack Actual y del cual estoy programando y estoy aprendiendo
+</br></br>
 JAVA
 PHP 
 Python
