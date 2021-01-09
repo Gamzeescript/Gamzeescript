@@ -26,7 +26,6 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Framework-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Framework-Quarkus-informational?style=flat&logo=quarkus&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
 
-
 ## PHP
 | Tecnologia | Progreso |
 | ------- | :-------: |
@@ -44,7 +43,17 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
 
-CSS
+## CSS
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/CSS-Vainilla-informational?style=flat&logo=css3&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+
+## Preprocesadores
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Preprocesador-SASS-informational?style=flat&logo=sass&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Preprocesador-LESS-informational?style=flat&logo=less&logoColor=negro&color=9931CC)  | ![#f03c15](https://placehold.it/15/C71585/000000?text=+) *Aprendiendo*  |
+
 Angular JS
 React JS
 Vue Js
