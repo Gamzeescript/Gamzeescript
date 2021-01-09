@@ -96,10 +96,10 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/pizza.gif" width="30px">
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/stat.gif" width="30px">
-<a href="https://github.com/Gamzeescript%22%3E
+<a href="https://github.com/Gamzeescript%22%3E>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamzeescript&theme=synthwave&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=135c8d&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github.com/Gamzeescript%22%3E
+<a href="https://github.com/Gamzeescript%22%3E>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gamzeescript&theme=synthwave&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=135c8d&bg_color=0D1117&hide_border=true" alt="Gamzeescript's GitHub Stats" />
 </a>
 
