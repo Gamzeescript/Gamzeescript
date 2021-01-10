@@ -115,7 +115,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 # ¿Té? <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/mitea.gif" width="30px">
 
 <p>
-  <img width="100" align='right' src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/aesthetic.jpg"
+  <img width="350lign='right' src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/aesthetic.jpg"
 </p>
   Escribir codigo es poesía. Si quieres, en la hora del té podemos hablar de otras cosas como libros, videojuegos, gatos, journaling, fotografía, cosas esteticas | hermosas, cosas que no entendemos, entre otras cosas; El mundo esta lleno de algoritmos que conecta nuestra existencia con lo que nos rodea. 
   
