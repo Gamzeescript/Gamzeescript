@@ -126,6 +126,6 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 
 
 <a href="https://github.com/Gamzeescript">
-  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/twitter.png" width="30px" />
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/twitter.png" width="50px" />
 </a>
 
