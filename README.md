@@ -125,7 +125,30 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 # Donde encontrarme <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/ufo.gif" width="30px">
 
 
-<a href="https://github.com/Gamzeescript">
+<a href="https://twitter.com/Gamzeescript">
   <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/twitter.png" width="50px" />
 </a>
-
+<a href="https://www.instagram.com/gamzeescript/">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/instagram.png" width="50px" />
+</a>
+<a href="https://gironandherjourney.wordpress.com/">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/wordpress.png" width="50px" />
+</a>
+<a href="https://www.linkedin.com/in/gamzeescript/">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/linkedin.png" width="50px" />
+</a>
+<a href="https://twitch.tv/gamzeescript">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/twitch.png" width="50px" />
+</a>
+<a href="https://gamzeescript.tumblr.com/">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/tumblr.png" width="50px" />
+</a>
+<a href="https://www.tiktok.com/@gamzeescript">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/tiktok.png" width="50px" />
+</a>
+<a href="https://www.youtube.com/channel/UCoTVvSu7wvoFX_PNdXBj3AA">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/youtube.png" width="50px" />
+</a>
+<a href="https://gitlab.com/gamzeescript">
+  <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/gitlab.png" width="50px" />
+</a>
