@@ -95,6 +95,15 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 </td></tr></table>
 
 # Experiencia <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/pizza.gif" width="30px">
+
+<ul align="center">
+  <li><b>Usaid puentes para el empleo: </b> Programadora JAVA Full Stack. 2019 - 2020</li>
+  <li><b>Tribunal Supremo Electoral: </b> Programadora en C# Back End. 2018</li>
+  <li><b>Banco Davivienda: </b> Programadora PHP Vainilla Back End. 2017</li>
+  <li><b>UassistMe: </b> Programadora PHP en Magento Full Stack. 2016</li>
+</ul>
+
+
 # Stats <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/stat.gif" width="30px">
 
 <a href="https://github.com/Gamzeescript">
