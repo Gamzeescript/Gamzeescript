@@ -61,7 +61,7 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 | ![](https://img.shields.io/badge/Gestor-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/C71585/000000?text=%20) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Gestor-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/C71585/000000?text=%20) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Gestor-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/C71585/000000?text=%20) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Lenguaje-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/7EFFD4/000000?text=%20) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Lenguaje-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/C71585/000000?text=%20) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Lenguaje-Transact_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/C71585/000000?text=%20) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Lenguaje-PL/SQL-informational?style=flat&logo=oracle&logoColor=white&color=9931CC)  | ![#f03c15](https://place-hold.it/15/C71585/000000?text=%20) *Aprendiendo*  |
 
