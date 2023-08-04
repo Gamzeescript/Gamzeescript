@@ -125,10 +125,10 @@ A continuación un poco de mi Stack Actual y del cual estoy programando y estoy 
 # Donde encontrarme <img src="https://github.com/Gamzeescript/Gamzeescript/blob/master/src/ufo.gif" width="30px">
 
 
-<a href="https://twitter.com/Gamzeescript">
+<a href="https://twitter.com/GamzeescriptDev">
   <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/twitter.png" width="50px" />
 </a>
-<a href="https://www.instagram.com/gamzeescript/">
+<a href="https://www.instagram.com/gamzeescript.dev/">
   <img align="center" src="https://raw.githubusercontent.com/Gamzeescript/Gamzeescript/master/src/instagram.png" width="50px" />
 </a>
 <a href="https://gironandherjourney.wordpress.com/">
